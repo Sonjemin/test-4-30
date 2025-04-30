@@ -8,9 +8,7 @@ response = client.responses.create(
  input=[
  {
  "role": "user",
- "content": "Write a onesentence
-bedtime story about a 
-unicorn."
+ "content": "Write a onesentence bedtime story about a unicorn."
  }
  ]
 )
